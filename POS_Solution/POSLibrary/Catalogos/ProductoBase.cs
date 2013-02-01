@@ -5,6 +5,8 @@ using System.Text;
 
 namespace POSLibrary.Catalogos
 {
+
+    // Este es un comentario de prueba para el GIT
     public class ProductoBase
     {
         Int32 ProductoId { get; set; }
